@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529784987 source:c:\users\cri\desktop\c++\palindroma\main.cpp
+	<iostream>
+	<string>
+

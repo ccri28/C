@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1530004888 source:c:\users\cri\desktop\c++\areaerone\main.cpp
+	<iostream>
+	<math.h>
+

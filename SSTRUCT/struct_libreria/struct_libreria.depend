@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1530796674 source:c:\users\cri\desktop\c++\sstruct\struct_libreria\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
